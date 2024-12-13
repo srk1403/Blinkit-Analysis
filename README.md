@@ -46,10 +46,12 @@ Now using these Measures made a Parameter Metrics :
 
 
 **7. SWOT Analysis:**
+
 **- Strengths:** Strong sales and Tier 3 dominance.
 **- Weaknesses:** Low customer ratings and small outlet performance.
 **- Opportunities:** Improve customer experience and boost low-performing products.
 **- Threats:** Market saturation and rising operational costs.
+"
 <img width="628" alt="image" src="https://github.com/user-attachments/assets/a95f99c8-cab5-40bc-ae87-4f0fcfa5a77f" />
 
 
