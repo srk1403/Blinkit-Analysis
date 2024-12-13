@@ -45,15 +45,15 @@ Now using these Measures made a Parameter Metrics :
 <img width="352" alt="image" src="https://github.com/user-attachments/assets/6e471646-5bb2-4dd7-9eb2-da4cb681eb16" />
 
 
-SWOT Analysis:
+**7. SWOT Analysis:**
+**- Strengths:** Strong sales and Tier 3 dominance.
+**- Weaknesses:** Low customer ratings and small outlet performance.
+**- Opportunities:** Improve customer experience and boost low-performing products.
+**- Threats:** Market saturation and rising operational costs.
+<img width="628" alt="image" src="https://github.com/user-attachments/assets/a95f99c8-cab5-40bc-ae87-4f0fcfa5a77f" />
 
-Strengths: Strong sales and Tier 3 dominance.
-Weaknesses: Low customer ratings and small outlet performance.
-Opportunities: Improve customer experience and boost low-performing products.
-Threats: Market saturation and rising operational costs.
+**8. Actionable Insights:**
 
-Actionable Insights:
-
-Recommended strategies to penetrate high-performing Tier 3 markets.
-Suggested loyalty programs and promotions for underperforming items.
-Advised on optimizing outlet operations to reduce costs and improve sales.
+- Recommended strategies to penetrate high-performing Tier 3 markets.
+- Suggested loyalty programs and promotions for underperforming items.
+- Advised on optimizing outlet operations to reduce costs and improve sales.
