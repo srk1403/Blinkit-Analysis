@@ -40,8 +40,8 @@ The objective of this analysis is to evaluate the sales performance, strengths, 
 **2. Avg Sales** = AVERAGEA('BlinkIT Grocery Data'[Sales])
 **3. No of items** = COUNTROWS('BlinkIT Grocery Data')
 **4. Total Sales** = SUM('BlinkIT Grocery Data'[Sales])
-
 Now using these Measures made a Parameter Metrics :
+
 <img width="352" alt="image" src="https://github.com/user-attachments/assets/6e471646-5bb2-4dd7-9eb2-da4cb681eb16" />
 
 
@@ -51,6 +51,7 @@ Now using these Measures made a Parameter Metrics :
 **- Opportunities:** Improve customer experience and boost low-performing products.
 **- Threats:** Market saturation and rising operational costs.
 <img width="628" alt="image" src="https://github.com/user-attachments/assets/a95f99c8-cab5-40bc-ae87-4f0fcfa5a77f" />
+
 
 **8. Actionable Insights:**
 
