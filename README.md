@@ -35,6 +35,15 @@ The objective of this analysis is to evaluate the sales performance, strengths, 
 - Forecasted potential future performance based on historical data.
 <img width="262" alt="image" src="https://github.com/user-attachments/assets/70e1e25d-8d2a-43cf-bd03-f72e9456dda1" />
 
+**6] DAX Formulae Used :**
+**1. Avg Rating** = AVERAGE(('BlinkIT Grocery Data'[Rating]))
+**2. Avg Sales** = AVERAGEA('BlinkIT Grocery Data'[Sales])
+**3. No of items** = COUNTROWS('BlinkIT Grocery Data')
+**4. Total Sales** = SUM('BlinkIT Grocery Data'[Sales])
+
+Now using these Measures made a Parameter Metrics :
+<img width="352" alt="image" src="https://github.com/user-attachments/assets/6e471646-5bb2-4dd7-9eb2-da4cb681eb16" />
+
 
 SWOT Analysis:
 
